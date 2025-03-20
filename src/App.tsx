@@ -137,16 +137,16 @@ function App() {
                 <a href="https://github.com/ojefersoncode"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center gap-3">
-                  <Github className="mr-2 h-4 w-4" /> GitHub
+                  className="flex items-center gap-2">
+                  <Github className="mr-2 h-4 w-4" />GitHub
                 </a>
               </Button>
               <Button variant="outline" >
                 <a href="https://br.linkedin.com/in/jeferson-vidal-440a40280"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center gap-3">
-                  <Linkedin className="mr-2 h-4 w-4" /> LinkedIn
+                  className="flex items-center gap-2">
+                  <Linkedin className="mr-2 h-4 w-4" />LinkedIn
                 </a>
                 
               </Button>
