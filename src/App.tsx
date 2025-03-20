@@ -133,14 +133,14 @@ function App() {
               >
                 <Mail className="mr-2 h-4 w-4" /> Baixar cv
               </Button>
-              <Button variant="outline">
+              <Button variant="outline" className="flex items-center gap-3">
                 <a href="https://github.com/ojefersoncode"
                   target="_blank"
                       rel="noopener noreferrer">
                   <Github className="mr-2 h-4 w-4" /> GitHub
                 </a>
               </Button>
-              <Button variant="outline">
+              <Button variant="outline" className="flex items-center gap-3">
                 <a href="https://br.linkedin.com/in/jeferson-vidal-440a40280"
                   target="_blank"
                       rel="noopener noreferrer">
