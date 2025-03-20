@@ -36,7 +36,7 @@ const projects = [
     title: "Dashboard",
     description: "Em desenvolvimento...",
     tech: ["Nextjs", "Supabase", "Shadcn ui", "Chart.js"],
-    link: "https://github.com",
+    link: "https://ojefersoncode-dashboard-4icbudluh-devindependentes-projects.vercel.app/",
     imagem: "/dashboard.png",
     repo: "https://github.com/ojefersoncode/dashboard"
   },
