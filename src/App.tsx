@@ -2,7 +2,6 @@ import { useEffect } from "react";
 import {
   Moon,
   Sun,
-  Code2,
   Github,
   Linkedin,
   Mail,
