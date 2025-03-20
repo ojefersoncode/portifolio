@@ -20,7 +20,7 @@ const projects = [
     description: "Em produçao",
     tech: ["Next.js", "Typescript", "Supabase", "Tailwind css"],
     link: "https://cooderfy.com",
-    imagem: "/src/assets/cooderfy.png",
+    imagem: "/public/cooderfy.png",
     repo: "https://github.com/ojefersoncode/Percentual-app",
   },
   {
@@ -28,7 +28,7 @@ const projects = [
     description: "Em desenvolvimento...",
     tech: ["Next js", "TypeScript", "supabase", "Tailwind css"],
     link: "https://leptrumapp.vercel.app/",
-    imagem: "/src/assets/leptrum.png",
+    imagem: "/public/leptrum.png",
     repo: "https://github.com/ojefersoncode/Leptrumapp"
   },
   {
@@ -36,7 +36,7 @@ const projects = [
     description: "Em desenvolvimento...",
     tech: ["Nextjs", "Supabase", "Shadcn ui", "Chart.js"],
     link: "https://github.com",
-    imagem: "/src/assets/dashboard.png",
+    imagem: "/public/dashboard.png",
     repo: "https://github.com/ojefersoncode/dashboard"
   },
 ];
@@ -97,7 +97,7 @@ function App() {
       <header className="fixed top-0 w-full bg-background/80 backdrop-blur-sm z-50 border-b">
         <div className=" mx-auto px-4 h-16 flex items-center justify-between">
           <div className="flex items-center gap-2">
-           <img src="/src//assets/logo.png" alt="" className="size-7" />
+           <img src="/public/logo.png" alt="" className="size-7" />
             <span className="font-bold text-lg">Ojefersoncode</span>
           </div>
           <Button
@@ -141,7 +141,7 @@ function App() {
             </div>
           </div>
           <div className="flex w-full justify-center items-center ">
-            <img src="/src/assets/jeferson.jpg" alt="jeferson" className="w-[450px] rounded-xl" />
+            <img src="/public/jeferson.jpg" alt="jeferson" className="w-[450px] rounded-xl" />
           </div>
         </section>
 
@@ -291,7 +291,7 @@ function App() {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex items-center gap-2">
-            <img src="/src//assets/logo.png" alt="" className="size-7" />
+            <img src="/public/logo.png" alt="" className="size-7" />
               <span className="font-medium">Ojefersoncode</span>
             </div>
             <div className="flex items-center gap-4">
