@@ -131,7 +131,7 @@ function App() {
                 variant="default"
                 className="bg-purple-600 hover:bg-purple-700"
               >
-                <Mail className="mr-2 h-4 w-4" /> Baixar cv
+                <Mail className="mr-2 h-4 w-4" /> Currículo
               </Button>
               <Button variant="outline">
                 <a href="https://github.com/ojefersoncode"
