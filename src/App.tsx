@@ -137,7 +137,7 @@ function App() {
                 <a href="https://github.com/ojefersoncode"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center gap-2">
+                  className="flex items-center">
                   <Github className="mr-2 h-4 w-4" />GitHub
                 </a>
               </Button>
@@ -145,7 +145,7 @@ function App() {
                 <a href="https://br.linkedin.com/in/jeferson-vidal-440a40280"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center gap-2">
+                  className="flex items-center">
                   <Linkedin className="mr-2 h-4 w-4" />LinkedIn
                 </a>
                 
