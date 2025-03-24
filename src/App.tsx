@@ -120,7 +120,7 @@ function App() {
         <section className="flex max-md:flex-wrap max-w-full items-center gap-7 pt-32 pb-16 mx-auto px-4">
           <div className="flex-col w-full justify-center items-center px-4 mx-auto " data-aos="fade-up">
             <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-purple-600 to-purple-400 bg-clip-text text-transparent">
-              Desenvolvedor Front-end
+              Desenvolvedor FullStack
             </h1>
             <p className="mt-6 text-lg text-muted-foreground">
               Compromisso sério para entregar a melhor qualidade em sua
